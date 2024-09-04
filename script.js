@@ -61,7 +61,7 @@ if (isDead(player1Health)){
 }   
 }
  }
-//  fight( "Mitch",  "Adam",  100, 100);
+ fight( "Mitch",  "Adam",  100, 100);
 
 
 //  const player1 = prompt("Enter a famous heavy weight boxer");
